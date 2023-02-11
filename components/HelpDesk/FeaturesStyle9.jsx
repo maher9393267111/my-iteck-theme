@@ -10,7 +10,7 @@ const FeaturesStyle9 = () => {
             <div className="col-lg-5">
               <div className="info wow fadeInUp">
                 <div className="section-head mb-40">
-                  <h6 className="color-green text-uppercase"> // Core Features </h6>
+                  <h6 className="color-green text-uppercase">  Core Features </h6>
                   <h2 className="fs-1"> Easy to customize with ai chat boot. </h2>
                 </div>
                 <div className="accordion accordion-flush" id="accordionFlushExample">

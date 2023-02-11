@@ -8,7 +8,7 @@ const ProductHead = ({ productName, rtl }) => {
         </a>
         <span className="me-2">/</span>
         <a href="#" className="me-2">
-          { rtl ? 'متجر اى تيك' : 'Iteck’s Store' }
+          { rtl ? 'متجر اى تيك' : 'Iteck&lsquo;s Store' }
         </a>
         <span className="me-2">/</span>
         <a href="#" className="color-000">

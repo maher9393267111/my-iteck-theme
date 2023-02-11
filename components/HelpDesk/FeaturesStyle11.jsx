@@ -9,7 +9,7 @@ const FeaturesStyle11 = () => {
             <div className="col-lg-5">
               <div className="info">
                 <div className="section-head wow fadeInUp">
-                  <h6 className="color-green text-uppercase"> //    Core Features </h6>
+                  <h6 className="color-green text-uppercase">     Core Features </h6>
                   <h2 className="fs-1"> Why Should You Use Our Iteck Helpdesk </h2>
                 </div>
                 <ul>

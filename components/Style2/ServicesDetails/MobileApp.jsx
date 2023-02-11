@@ -16,7 +16,7 @@ const MobileApp = () => {
                 Mobile app developer berperan dalam membangun produk berupa aplikasi berbasis mobile, umumnya terdiri dari sekolompok programmer yang telah terlatih dan terbiasa dengan hal tersebut. 
                 </p>
                 <p className="pb-50">
-                Pekerjaan mereka berkutat pada 'menerjemahkan'  ide-ide dari bidang desain serta penerapan rekayasa perangkat lunak.
+                Pekerjaan mereka berkutat pada menerjemahkan  ide-ide dari bidang desain serta penerapan rekayasa perangkat lunak.
                 </p>
               </div>
             </div>

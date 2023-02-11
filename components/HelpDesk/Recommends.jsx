@@ -7,7 +7,7 @@ const Recommends = () => {
         <div className="row justify-content-center">
           <div className="col-lg-6">
             <div className="section-head text-center wow fadeInUp">
-              <h6 className="color-green text-uppercase"> //    Recommends    // </h6>
+              <h6 className="color-green text-uppercase">     Recommends     </h6>
               <h2 className="fs-1"> Leading industry experts recommend Iteck </h2>
             </div>
           </div>

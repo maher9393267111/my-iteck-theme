@@ -7,7 +7,7 @@ const Signup = () => {
         <div className="row justify-content-center">
           <div className="col-lg-7">
             <div className="section-head text-center wow fadeInUp">
-              <h6 className="color-green text-uppercase"> //    Get free trail    // </h6>
+              <h6 className="color-green text-uppercase">     Get free trail     </h6>
               <h2 className="fs-1"> That delights your customers and fuels your sales </h2>
             </div>
             <div className="content mb-80 wow fadeInUp">

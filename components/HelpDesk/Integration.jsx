@@ -23,7 +23,7 @@ const Integration = () => {
             <div className="col-lg-5">
               <div className="info section-padding wow fadeInUp" data-wow-delay="0.2s">
                 <div className="section-head mb-30">
-                  <h6 className="color-green text-uppercase"> // integrations </h6>
+                  <h6 className="color-green text-uppercase">  integrations </h6>
                   <h2 className="fs-1 text-white"> Easily connect with essential tools </h2>
                 </div>
                 <p className="mb-20"> Integrate Iteck ticketing system with your CRM, favorite apps, and management platforms to fully reflect your daily workflow. </p>

@@ -33,7 +33,7 @@ const Testimonials = () => {
         <div className="row justify-content-center">
           <div className="col-lg-6">
             <div className="section-head mb-70 text-center wow fadeInUp">
-              <h6 className="color-green text-uppercase"> //    User Feedbacks    // </h6>
+              <h6 className="color-green text-uppercase">     User Feedbacks     </h6>
               <h2 className="fs-1"> Worldwide use Iteck to support customers </h2>
             </div>
           </div>
