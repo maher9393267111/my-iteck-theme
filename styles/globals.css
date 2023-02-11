@@ -1,26 +1,42 @@
-html,
-body {
-  padding: 0;
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+html, body {
+  overflow-x: hidden;
 }
 
-a {
-  color: inherit;
-  text-decoration: none;
+.modal-video {
+  background: rgba(0, 0, 0, 0.9) !important;
 }
 
-* {
-  box-sizing: border-box;
+.lg-backdrop {
+  background-color: rgba(0, 0, 0, 0.8) !important;
 }
 
-@media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: dark;
-  }
-  body {
-    color: white;
-    background: black;
-  }
+.lg-react-element {
+  display: none;
+}
+
+.lg-container, .lg-container * {
+  direction: ltr !important;
+}
+
+.rc-slider-handle {
+  border-color: var(--clr-style) !important;
+  background-color: var(--clr-style) !important;
+  opacity: 1 !important;
+}
+
+.rc-slider-handle-dragging {
+  box-shadow: 0 0 0 2px var(--clr-style) !important;
+}
+
+
+.related-products-slider .swiper-container,
+.slider-3items .swiper-container,
+.screenshots-slider .swiper-container {
+  direction: ltr !important;
+}
+
+
+.pricing.style-8 .rc-slider-handle {
+  background-color: #fff !important;
+  border-color: #fff !important;
 }
